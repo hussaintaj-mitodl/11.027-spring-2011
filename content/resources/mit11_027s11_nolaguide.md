@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is an itinerary and neighborhood guide.
-file: /media/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-new-orleans-spring-2011/9e538fd5149b1b41f9cc2e2a5030913b_MIT11_027S11_nolaguide.pdf
+file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-new-orleans-spring-2011/9e538fd5149b1b41f9cc2e2a5030913b_MIT11_027S11_nolaguide.pdf
 file_size: 287378
 file_type: application/pdf
 learning_resource_types: []

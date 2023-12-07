@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-new-orleans-spring-2011/f9f89f1b627cd990697490e477045190_MIT11_027S11_memo.pdf
+file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-new-orleans-spring-2011/f9f89f1b627cd990697490e477045190_MIT11_027S11_memo.pdf
 file_size: 224169
 file_type: application/pdf
 learning_resource_types:
